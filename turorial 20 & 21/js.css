@@ -1,0 +1,219 @@
+*{
+    margin:0;
+    padding:0
+}
+
+
+body{
+    background-color:#EEE;
+    font-family: 'Fondamento', cursive;
+}
+
+.container{
+    background-color:#E4F9F5;
+    width:1000px;
+    margin:0 auto;
+    padding:20px
+   
+}
+
+#name:hover{
+            color:red
+}
+
+.image{
+     width:100px;
+     height:120px;
+     border:3px white solid;
+     border-radius:50%;
+     float:left
+}
+
+.header-bio{
+
+ float:left;
+ margin-top:30px;
+ margin-left:15px;
+}
+
+h1,h2,h6{
+    color:#11999E;
+}
+
+.header-contact{
+    float:right;
+    margin-top:20px
+}
+
+.header-contact a{
+    color:orange;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.header-contact a:hover{
+    text-decoration:underline;
+    color:black;
+
+}
+
+.clear{
+    clear:both
+}
+ 
+.hr{
+    border-bottom:3px black solid;
+    margin-top:20px;
+    width:100p%
+}
+
+.personal-information{
+    width:30%;
+    margin-top:30px;
+    float:left;
+    color:#11999E;
+   
+}
+
+.ps-bio{
+    width:70%;
+    float:right;
+    margin-top:30px;
+
+}
+
+#clear2{
+    clear:both;
+}
+
+.hr2{
+    border-bottom:1.5px black solid;
+    margin-top:30px;
+
+}
+
+.clear3{
+    clear:both;
+}
+
+.work-experience{
+    width:30%;
+    margin-top:30px;
+    float:left;
+    color:#11999E;
+}
+
+.we-bio{
+    width:70%;
+    margin-top:30px;
+    float:right;
+    
+}
+
+.we-bio h3,h5{
+    color:blue;
+}
+.clear4{
+    clear:both;
+}
+
+.hr3{
+    border-bottom:1.5px black solid;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.education{
+    width:30%;
+    float:left;
+}
+
+.education h3{
+     color:#11999E;
+}
+
+.education-bio1{
+    width:30%;
+    float:left;
+}
+
+.education-bio1 h3,h4{
+    color:blue;
+}
+
+
+.education-bio2{
+    width:30%;
+    float:right
+    
+}
+
+.education-bio2 h3{
+    color:blue;
+}
+
+.clear5{
+    clear:both;
+
+}
+
+.hr4{
+    border-bottom:1.5px black solid;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.references{
+    width:30%;
+    float:left;
+
+}
+
+.references h3{
+    color:#11999E;
+
+}
+
+.references-bio1{
+    width:30%;
+    float:left;
+
+}
+
+.references-bio2{
+    width:30%;
+    float:right;
+
+}
+
+.clear5{
+    clear:both;
+}
+
+.hr5{
+    border-bottom:1.5px black solid;
+    margin-top:30px;
+}
+
+.footer{
+    background-color:black;
+    text-align:center;
+    padding:10px;
+}
+
+.footer a {
+    color:white;
+    text-decoration:none;
+    margin:20px;
+
+}
+
+.fotter a:hover {
+    text-decoration:underline;
+    color:red;
+
+}
+
+
+
+  
